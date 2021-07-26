@@ -1,0 +1,24 @@
+{
+  "name": "jest-the-beginning-fsapi",
+  "version": "1.0.0",
+  "description": "Testing is an important part of software development.\r It takes time to write tests but it speeds up the long term development.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "coverage": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SpaceSC/jest-the-beginning-fsapi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SpaceSC/jest-the-beginning-fsapi/issues"
+  },
+  "homepage": "https://github.com/SpaceSC/jest-the-beginning-fsapi#readme",
+  "devDependencies": {
+    "jest": "^27.0.6"
+  }
+}

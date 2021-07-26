@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1627338035734" clover="3.2.0">
+  <project timestamp="1627338035734" name="All files">
+    <metrics statements="53" coveredstatements="53" conditionals="20" coveredconditionals="20" methods="8" coveredmethods="8" elements="81" coveredelements="81" complexity="0" loc="53" ncloc="53" packages="1" files="4" classes="4"/>
+    <file name="findUnique.js" path="C:\Users\Cecilia\Desktop\codecool\projects\jest-the-beginning-fsapi\simple\findUnique.js">
+      <metrics statements="13" coveredstatements="13" conditionals="6" coveredconditionals="6" methods="1" coveredmethods="1"/>
+      <line num="2" count="8" type="stmt"/>
+      <line num="3" count="8" type="stmt"/>
+      <line num="5" count="8" type="cond" truecount="2" falsecount="0"/>
+      <line num="6" count="4" type="stmt"/>
+      <line num="7" count="4" type="stmt"/>
+      <line num="8" count="12" type="stmt"/>
+      <line num="9" count="12" type="cond" truecount="2" falsecount="0"/>
+      <line num="10" count="2" type="stmt"/>
+      <line num="14" count="4" type="stmt"/>
+      <line num="15" count="4" type="cond" truecount="2" falsecount="0"/>
+      <line num="16" count="2" type="stmt"/>
+      <line num="18" count="2" type="stmt"/>
+      <line num="23" count="1" type="stmt"/>
+    </file>
+    <file name="maxDiff.js" path="C:\Users\Cecilia\Desktop\codecool\projects\jest-the-beginning-fsapi\simple\maxDiff.js">
+      <metrics statements="12" coveredstatements="12" conditionals="8" coveredconditionals="8" methods="1" coveredmethods="1"/>
+      <line num="2" count="3" type="cond" truecount="4" falsecount="0"/>
+      <line num="3" count="2" type="stmt"/>
+      <line num="6" count="1" type="stmt"/>
+      <line num="7" count="1" type="stmt"/>
+      <line num="9" count="1" type="stmt"/>
+      <line num="10" count="3" type="stmt"/>
+      <line num="11" count="3" type="cond" truecount="2" falsecount="0"/>
+      <line num="12" count="1" type="stmt"/>
+      <line num="14" count="3" type="cond" truecount="2" falsecount="0"/>
+      <line num="15" count="1" type="stmt"/>
+      <line num="19" count="1" type="stmt"/>
+      <line num="22" count="1" type="stmt"/>
+    </file>
+    <file name="monkeyTalk.js" path="C:\Users\Cecilia\Desktop\codecool\projects\jest-the-beginning-fsapi\simple\monkeyTalk.js">
+      <metrics statements="5" coveredstatements="5" conditionals="2" coveredconditionals="2" methods="3" coveredmethods="3"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="2" count="4" type="stmt"/>
+      <line num="5" count="4" type="stmt"/>
+      <line num="7" count="4" type="cond" truecount="2" falsecount="0"/>
+      <line num="11" count="1" type="stmt"/>
+    </file>
+    <file name="palindromeChainLength.js" path="C:\Users\Cecilia\Desktop\codecool\projects\jest-the-beginning-fsapi\simple\palindromeChainLength.js">
+      <metrics statements="23" coveredstatements="23" conditionals="4" coveredconditionals="4" methods="3" coveredmethods="3"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="2" count="23" type="stmt"/>
+      <line num="3" count="23" type="stmt"/>
+      <line num="4" count="23" type="stmt"/>
+      <line num="5" count="23" type="stmt"/>
+      <line num="6" count="23" type="stmt"/>
+      <line num="9" count="1" type="stmt"/>
+      <line num="10" count="15" type="stmt"/>
+      <line num="11" count="15" type="stmt"/>
+      <line num="14" count="1" type="stmt"/>
+      <line num="15" count="7" type="cond" truecount="2" falsecount="0"/>
+      <line num="16" count="2" type="stmt"/>
+      <line num="19" count="5" type="stmt"/>
+      <line num="20" count="5" type="stmt"/>
+      <line num="21" count="5" type="stmt"/>
+      <line num="22" count="5" type="stmt"/>
+      <line num="23" count="8" type="stmt"/>
+      <line num="24" count="8" type="stmt"/>
+      <line num="25" count="8" type="stmt"/>
+      <line num="26" count="8" type="cond" truecount="2" falsecount="0"/>
+      <line num="27" count="5" type="stmt"/>
+      <line num="29" count="3" type="stmt"/>
+      <line num="34" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
