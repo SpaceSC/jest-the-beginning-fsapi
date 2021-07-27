@@ -17,11 +17,11 @@ function gpsTest(testDescription, seconds, distancesFromOrigin, result) {
   test(testDescription, () => {
     expect(gps(seconds, distancesFromOrigin)).toBe(result);
   });
-}
+};
 
 // Call function
 gpsTest("tests if there's only one checkpoint, the max speed = the only speed", 3600, [0, 1000], 1000);
 
-gpsTest("tests if there are more than one checkpoints, it returns the max speed", (3600, [0, 1000, 1500], 1000);
+gpsTest("tests if there are more than one checkpoints, it returns the max speed", 3600, [0, 1000, 1500], 1000);
 
 

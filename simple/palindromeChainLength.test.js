@@ -1,6 +1,6 @@
 const palindromeChainLength = require("./palindromeChainLength");
 
-console.log(palindromeChainLength(526));
+//console.log(palindromeChainLength(526));
 
 // what it exports, it returns 0 if it's palindrom, test this first
 

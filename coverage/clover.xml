@@ -1,7 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1627341777666" clover="3.2.0">
-  <project timestamp="1627341777666" name="All files">
-    <metrics statements="78" coveredstatements="78" conditionals="28" coveredconditionals="28" methods="10" coveredmethods="10" elements="116" coveredelements="116" complexity="0" loc="78" ncloc="78" packages="1" files="6" classes="6"/>
+<coverage generated="1627395187593" clover="3.2.0">
+  <project timestamp="1627395187596" name="All files">
+    <metrics statements="93" coveredstatements="93" conditionals="36" coveredconditionals="36" methods="11" coveredmethods="11" elements="140" coveredelements="140" complexity="0" loc="93" ncloc="93" packages="1" files="7" classes="7"/>
+    <file name="declareWinner.js" path="C:\Users\Cecilia\Desktop\codecool\projects\jest-the-beginning-fsapi\simple\declareWinner.js">
+      <metrics statements="15" coveredstatements="15" conditionals="8" coveredconditionals="8" methods="1" coveredmethods="1"/>
+      <line num="4" count="6" type="cond" truecount="2" falsecount="0"/>
+      <line num="5" count="4" type="stmt"/>
+      <line num="6" count="4" type="stmt"/>
+      <line num="8" count="2" type="stmt"/>
+      <line num="9" count="2" type="stmt"/>
+      <line num="11" count="6" type="stmt"/>
+      <line num="12" count="14" type="stmt"/>
+      <line num="13" count="14" type="cond" truecount="2" falsecount="0"/>
+      <line num="14" count="8" type="stmt"/>
+      <line num="15" count="8" type="cond" truecount="2" falsecount="0"/>
+      <line num="16" count="2" type="stmt"/>
+      <line num="19" count="6" type="stmt"/>
+      <line num="20" count="6" type="cond" truecount="2" falsecount="0"/>
+      <line num="21" count="4" type="stmt"/>
+      <line num="27" count="1" type="stmt"/>
+    </file>
     <file name="findUnique.js" path="C:\Users\Cecilia\Desktop\codecool\projects\jest-the-beginning-fsapi\simple\findUnique.js">
       <metrics statements="13" coveredstatements="13" conditionals="6" coveredconditionals="6" methods="1" coveredmethods="1"/>
       <line num="2" count="8" type="stmt"/>
@@ -20,19 +38,19 @@
     </file>
     <file name="gps.js" path="C:\Users\Cecilia\Desktop\codecool\projects\jest-the-beginning-fsapi\simple\gps.js">
       <metrics statements="14" coveredstatements="14" conditionals="4" coveredconditionals="4" methods="1" coveredmethods="1"/>
-      <line num="2" count="2" type="stmt"/>
-      <line num="3" count="2" type="stmt"/>
-      <line num="4" count="2" type="stmt"/>
-      <line num="5" count="5" type="stmt"/>
-      <line num="6" count="5" type="cond" truecount="2" falsecount="0"/>
-      <line num="7" count="3" type="stmt"/>
-      <line num="8" count="3" type="stmt"/>
-      <line num="9" count="3" type="stmt"/>
-      <line num="12" count="2" type="stmt"/>
-      <line num="13" count="2" type="stmt"/>
-      <line num="14" count="3" type="cond" truecount="2" falsecount="0"/>
-      <line num="15" count="2" type="stmt"/>
-      <line num="18" count="2" type="stmt"/>
+      <line num="2" count="4" type="stmt"/>
+      <line num="3" count="4" type="stmt"/>
+      <line num="4" count="4" type="stmt"/>
+      <line num="5" count="10" type="stmt"/>
+      <line num="6" count="10" type="cond" truecount="2" falsecount="0"/>
+      <line num="7" count="6" type="stmt"/>
+      <line num="8" count="6" type="stmt"/>
+      <line num="9" count="6" type="stmt"/>
+      <line num="12" count="4" type="stmt"/>
+      <line num="13" count="4" type="stmt"/>
+      <line num="14" count="6" type="cond" truecount="2" falsecount="0"/>
+      <line num="15" count="4" type="stmt"/>
+      <line num="18" count="4" type="stmt"/>
       <line num="21" count="1" type="stmt"/>
     </file>
     <file name="maxDiff.js" path="C:\Users\Cecilia\Desktop\codecool\projects\jest-the-beginning-fsapi\simple\maxDiff.js">
@@ -61,27 +79,27 @@
     <file name="palindromeChainLength.js" path="C:\Users\Cecilia\Desktop\codecool\projects\jest-the-beginning-fsapi\simple\palindromeChainLength.js">
       <metrics statements="23" coveredstatements="23" conditionals="4" coveredconditionals="4" methods="3" coveredmethods="3"/>
       <line num="1" count="1" type="stmt"/>
-      <line num="2" count="23" type="stmt"/>
-      <line num="3" count="23" type="stmt"/>
-      <line num="4" count="23" type="stmt"/>
-      <line num="5" count="23" type="stmt"/>
-      <line num="6" count="23" type="stmt"/>
+      <line num="2" count="18" type="stmt"/>
+      <line num="3" count="18" type="stmt"/>
+      <line num="4" count="18" type="stmt"/>
+      <line num="5" count="18" type="stmt"/>
+      <line num="6" count="18" type="stmt"/>
       <line num="9" count="1" type="stmt"/>
-      <line num="10" count="15" type="stmt"/>
-      <line num="11" count="15" type="stmt"/>
+      <line num="10" count="12" type="stmt"/>
+      <line num="11" count="12" type="stmt"/>
       <line num="14" count="1" type="stmt"/>
-      <line num="15" count="7" type="cond" truecount="2" falsecount="0"/>
+      <line num="15" count="6" type="cond" truecount="2" falsecount="0"/>
       <line num="16" count="2" type="stmt"/>
-      <line num="19" count="5" type="stmt"/>
-      <line num="20" count="5" type="stmt"/>
-      <line num="21" count="5" type="stmt"/>
-      <line num="22" count="5" type="stmt"/>
-      <line num="23" count="8" type="stmt"/>
-      <line num="24" count="8" type="stmt"/>
-      <line num="25" count="8" type="stmt"/>
-      <line num="26" count="8" type="cond" truecount="2" falsecount="0"/>
-      <line num="27" count="5" type="stmt"/>
-      <line num="29" count="3" type="stmt"/>
+      <line num="19" count="4" type="stmt"/>
+      <line num="20" count="4" type="stmt"/>
+      <line num="21" count="4" type="stmt"/>
+      <line num="22" count="4" type="stmt"/>
+      <line num="23" count="6" type="stmt"/>
+      <line num="24" count="6" type="stmt"/>
+      <line num="25" count="6" type="stmt"/>
+      <line num="26" count="6" type="cond" truecount="2" falsecount="0"/>
+      <line num="27" count="4" type="stmt"/>
+      <line num="29" count="2" type="stmt"/>
       <line num="34" count="1" type="stmt"/>
     </file>
     <file name="uniqueInOrder.js" path="C:\Users\Cecilia\Desktop\codecool\projects\jest-the-beginning-fsapi\simple\uniqueInOrder.js">
