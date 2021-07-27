@@ -3,7 +3,7 @@ const isNerdy = async (id) => {
     const response = await fetch(`http://api.icndb.com/jokes/${id}`)
     const joke = await response.json()
     if (joke.type === "success") {
-      return joke.categories.includes("nerdy")
+      return joke.value.categories.includes("nerdy")
     }
     else if (joke.type === "NoSuchQuoteException") {
       return null
@@ -11,8 +11,8 @@ const isNerdy = async (id) => {
       console.log(joke.type)
       throw "Unknown type"
     }
-  } catch (e) {
-    console.log(e)
+  } catch (err) {
+    console.log(err) // err comes from throw
     return null
   }
 }
